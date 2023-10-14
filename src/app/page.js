@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <main>
-      <h2>Testing</h2>
+      <h2>API Day-25</h2>
     </main>
   )
 }
